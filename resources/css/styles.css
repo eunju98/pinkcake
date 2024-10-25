@@ -294,6 +294,7 @@ legend {
   height: 100%;
   -o-object-fit: cover;
      object-fit: cover;
+  border-radius: 25px;
 }
 .swiper .swiper-slide a {
   display: block;
@@ -458,7 +459,7 @@ legend {
   display: block;
   width: 200px;
   height: 35px;
-  background: url("../../../resources/images/pattern/common/head_logo.svg") no-repeat 0 0/contain;
+  background: url("../../../resources/images/pattern/common/") no-repeat 0 0/contain;
 }
 #header #logo span {
   position: absolute !important;
