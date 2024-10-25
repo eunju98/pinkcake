@@ -37,6 +37,8 @@ button,
 fieldset,
 img {
   border: 0 none;
+  width: 150px;
+  height: 150px;
 }
 
 dl,
@@ -294,7 +296,6 @@ legend {
   height: 100%;
   -o-object-fit: cover;
      object-fit: cover;
-  border-radius: 25px;
 }
 .swiper .swiper-slide a {
   display: block;
