@@ -460,7 +460,7 @@ legend {
   display: block;
   width: 200px;
   height: 35px;
-  background: url("../../../resources/images/pattern/common/") no-repeat 0 0/contain;
+  background: no-repeat 0 0/contain;
 }
 #header #logo span {
   position: absolute !important;
